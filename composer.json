@@ -1,0 +1,24 @@
+{
+  "name": "pvds/shortcode-menu",
+  "type": "wordpress-plugin",
+  "license": "MIT",
+  "description": "Generates shortcode menu button in wordpress wysiwyg",
+  "homepage": "https://github.com/pvds/shortcode-menu/",
+  "authors": [
+    {
+      "name": "Peter van der Steen",
+      "email": "peter@miky.nl",
+      "homepage": "https://github.com/pvds"
+    }
+  ],
+  "keywords": [
+    "wordpress"
+  ],
+  "support": {
+    "issues": "https://github.com/pvds/issues"
+  },
+  "require": {
+    "php": ">=5.4.0",
+    "composer/installers": "~1.0"
+  }
+}
