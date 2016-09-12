@@ -1,21 +1,21 @@
 {
-  "name": "pvds/shortcode-menu",
+  "name": "justwalkit/miky-shortcode-menu",
   "type": "wordpress-plugin",
   "license": "MIT",
   "description": "Generates shortcode menu button in wordpress wysiwyg",
-  "homepage": "https://github.com/pvds/shortcode-menu/",
+  "homepage": "https://github.com/justwalkit/miky-shortcode-menu/",
   "authors": [
     {
-      "name": "Peter van der Steen",
-      "email": "peter@miky.nl",
-      "homepage": "https://github.com/pvds"
+      "name": "Just Walk",
+      "email": "it@justwalk.nl",
+      "homepage": "https://github.com/justwalkit"
     }
   ],
   "keywords": [
     "wordpress"
   ],
   "support": {
-    "issues": "https://github.com/pvds/issues"
+    "issues": "https://github.com/justwalkit/issues"
   },
   "require": {
     "php": ">=5.4.0",
